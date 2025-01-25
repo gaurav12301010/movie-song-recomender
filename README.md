@@ -8,7 +8,7 @@ A song recommender system that finds the top five similar songs based on similar
 ## Tech used
 Made use of python libaries such as sklearn and its cosine similarity function to find the relative similarity between all song and movies
 Used streamlit to make the web application. To apps movie and song recommender are put in one using a third .py app. 
-For API calls made use of TMDB api and spotipy. 
+For API calls made use of TMDB api and spotipy. <br>
 To train the model used dataset from kaggle.
 Song dataset: https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
 Movie dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
